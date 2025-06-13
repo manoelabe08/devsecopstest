@@ -10,8 +10,8 @@
     "express": "^4.13.3"
   },
   "engines": {
-    "node": "4.0.0"
-  },
+  "node": ">=18.0.0"
+},
   "repository": {
     "type": "git",
     "url": "https://github.com/heroku/node-js-sample"
